@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Henry (Henrique in portuguese)</h1>
-<h3 align="center">A self-taught student who enjoys math, logic, programming (mainly python) and language studies</h3>
+<h3 align="center">A self-taught student who enjoys math, logic, machine and human languages</h3>
 
-- 🌱 I’m currently learning **Django/Flask, CCNA lessons, Chinese, Deutsch, English, French, Japanese, Italian, Spanish and Russian**
+- 🌱 I’m currently learning about **1.Data Science, 2.Django/Flask and 3.CCNA lessons**
+-  And also studying four "language branches": **1.English, Deutsch and Dutsch; 2.Spanish, French and Italian; 3.Japanese, Chinese and Korean; 4.Russian and Polish**
+-  The numbering follows the order of learning focus and the specifications on how I am studying all this is found at: **https://github.com/bzrr0/learning**
 
-- 👨‍💻 All of my projects are available at [{in process(i'll create a chatbot to explain everything, but wait for it)}]({in process(i'll create a chatbot to explain everything, but wait for it)})
+- 👨‍💻 All of my projects are available at [{in process(i'll create a chatbot to explain everything, but wait for it)}]
 
 - 💬 Ask me about **ways of organizing processes, logical problems and everything related to that**
 
 - 📫 My email is **henrique.bezerra@outlook.com.br**
 
-- 📄 Know about my experiences [{in process(i'm thinking how can i create an easy editable resume)}]({in process(i'm thinking how can i create an easy editable resume)})
+- 📄 Know about my experiences [{in process(i'm thinking how can i create an easy editable resume)}]
 
-- ⚡ Fun fact **I'm left-handed, introverted and ironically comical**
+- ⚡ Fun fact **I'm left-handed, introverted and maybe autistic(just maybe)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
