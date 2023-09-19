@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
 <h3 align="center">A self-taught student who enjoys math, logic, machine, human languages and games</h3>
 
-- 🌱 I’m currently learning about **a lot of things**
--  And also studying 4 language families: Germanic (English, German and Dutch), Italic (Spanish, French and Italian), Sino-Tibetan (Chinese, Korean and Japanese) and Slavic (Polish, Ukrainian and Russian). You can find more information at **https://github.com/bzrr0/learning**
+- 🌱 I’m currently studying 4 language families: Germanic (English, German and Dutch), Italic (Spanish, French and Italian), Sino-Tibetan (Chinese, Korean and Japanese) and Slavic (Polish, Ukrainian and Russian). You can find more information at **https://github.com/bzrr0/learning**
 
-- 👨‍💻 All of my projects are available here on GitHub(sorry for the mess and feel free to point out improvements)
-
-- 💬 Ask me about **anything(except about "that club")**
+- 👨‍💻 All my projects are available here on GitHub(sorry for the mess and feel free to point out improvements)
 
 - 📫 My email is **henrique.bezerra@outlook.com.br**
-
-- ⚡ Fun fact **I'm left-handed, introverted and maybe autistic(just maybe)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
