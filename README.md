@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
-<h3 align="center">A self-taught student who enjoys math, logic, machine, human languages and games</h3>
+<h3 align="center">A self-taught student who enjoys math, logic, machine, and human languages</h3>
 
-- 🌱 I’m currently studying 4 language families: Germanic (English, German and Dutch), Italic (Spanish, French and Italian), Sino-Tibetan (Chinese, Korean and Japanese) and Slavic (Polish, Ukrainian and Russian). You can find more information at **https://github.com/bzrr0/learning**
-
-- 👨‍💻 All my projects are available here on GitHub(sorry for the mess and feel free to point out improvements)
+- 🌱 I’m currently studying the base of 4 family languages: Germanic (English, German and Dutch), Italic (Spanish, French and Italian), Sino-Tibetan (Chinese, Korean and Japanese) and Slavic (Polish, Ukrainian and Russian).
 
 - 📫 My email is **henrique.bezerra@outlook.com.br**
 
