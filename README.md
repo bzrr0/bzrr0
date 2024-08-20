@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
 <h3 align="center">A self-taught student who enjoys math, logic, machine, and human languages</h3>
 
-- 🌱 I’m currently studying the base of 4 family languages: Germanic (English, German and Dutch), Italic (Spanish, French and Italian), Sino-Tibetan (Chinese, Korean and Japanese) and Slavic (Polish, Ukrainian and Russian).
+- 🌱 I’m currently studying the base of 4 family languages: Germanic (English, German and Dutch), Italic (Spanish, French and Italian), Sino-Tibetan (Chinese, Korean and Japanese) and Slavic (Polish, Ukrainian and Russian). The idea is to learn 9030 words(most used words according to Longman Corpus Network) in all this 12 languages, using the process to create a table with all this data that can be used in future projects and also learn the basics levels of each language and improve my vocabulary. I'll leave all the files, scripts for automations and more resources in a repository soon.
 
-- 📫 My email is **henrique.bezerra@outlook.com.br**
+- Currently completing a degree in Software Engineering(ends in December of 2025) and the course HackersDoBem with Specialization in DevOps and DevSecOps(ends in October of this year). The course was designed by SENAI-SP and RNP's Escola Superior de Redes. I'll provide the files of my resolutions and summarize all the content in a repository soon.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
